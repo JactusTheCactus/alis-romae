@@ -8,7 +8,7 @@
 	- Chapter 5: [The Age of Darkness](#the-age-of-darkness)
 
 # Preface
-The _Alis Romae_ is a record of ten sisters of the Vlakhou family born between 806 BCE and 754 BCE in Babylon, each with the ability to transform into a bird form. 32 editions have been written over the centuries, by various authors, but the first edition was in 432 CE, with the most recent edition, the 32nd edition, was published in 2012. The Vlakhou are immortal, unless killed by a Maledictus Annulus.
+The _Alis Romae_ is a record of ten sisters of the Vlakhou family born between 806 BCE and 754 BCE in Babylon, each with the ability to transform into a bird form. 32 editions have been written over the centuries, by various authors, but the first edition was in 432 CE, with the most recent edition, the 32nd edition, published in 2012. The Vlakhou are immortal, unless killed by a Maledictus Annulus.
 
 # Vlakhou Sisters
 The sisters are immortal, though not in the traditional sense. They can all be killed by conventional means, but, if they are not killed by a Maledictus Annulus, their body will heal back to full health, with no trace of being killed, save for a scar of the killing blow. This regeneration will only occur after complete and total death.
