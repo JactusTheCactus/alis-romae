@@ -6,8 +6,10 @@
 - Part 2
 	- Chapter 4: [The Age of Light](#the-age-of-light)
 	- Chapter 5: [The Age of Darkness](#the-age-of-darkness)
+
 # Preface
 The _Alis Romae_ is a record of ten sisters of the Vlakhou family born between 806 BCE and 754 BCE in Babylon, each with the ability to transform into a bird form. 32 editions have been written over the centuries, by various authors, but the first edition was in 432 CE, with the most recent edition, the 32nd edition, was published in 2012. The Vlakhou are immortal, unless killed by a Maledictus Annulus.
+
 # Vlakhou Sisters
 The sisters are immortal, though not in the traditional sense. They can all be killed by conventional means, but, if they are not killed by a Maledictus Annulus, their body will heal back to full health, with no trace of being killed, save for a scar of the killing blow. This regeneration will only occur after complete and total death.
 Examples:
@@ -17,7 +19,9 @@ Examples:
 	- Scar all the way around the neck
 - Four nonlethal stab wounds, then a fifth to the heart
 	- One stab scar over the heart
+
 # List:
+
 ## Catalina
 - Living Status: Deceased; Roanoke, 1590 CE
 - Epithet: `Aurum`
@@ -25,6 +29,7 @@ Examples:
 - Role: Leader
 - Extra Details: None
 - Allegiance: Vlakhou
+
 ## Ana
 - Living Status: Alive
 - Epithet: `The Hand That Feeds`
@@ -32,6 +37,7 @@ Examples:
 - Role: None
 - Extra Details: Intelligent
 - Allegiance: Vlakhou
+
 ## Sorina
 - Living Status: Deceased
 - Epithet: Set
@@ -39,6 +45,7 @@ Examples:
 - Role: None
 - Extra Details: Despises Humanity
 - Allegiance: Traitor
+
 ## Isabel
 - Living Status: Alive
 - Epithet:
@@ -48,6 +55,7 @@ Examples:
 - Role: Something of a “Secondary Heart” to the family, until the [Age of Darkness](#the-age-of-darkness)
 - Extra Details: Youngest
 - Allegiance: Vlakhou
+
 ## Livia
 - Living Status: Deceased; 371 CE
 - Epithet: `The Light`
@@ -55,6 +63,7 @@ Examples:
 - Role: Heart
 - Extra Details: Loves humanity
 - Allegiance: Vlakhou
+
 ## Alina
 - Living Status: Missing; 389 CE
 - Epithet: `Peacekeeper`
@@ -62,6 +71,7 @@ Examples:
 - Role: Negotiator
 - Extra Details: None
 - Allegiance: Vlakhou
+
 ## Iolanda
 - Living Status: Alive
 - Epithet: `The Siren`
@@ -69,6 +79,7 @@ Examples:
 - Role: Seductress
 - Extra Details: None
 - Allegiance: Vlakhou
+
 ## Adriana
 - Living Status: Alive
 - Epithet: `Cloak & Dagger`
@@ -76,6 +87,7 @@ Examples:
 - Role: Spy
 - Extra Details: None
 - Allegiance: Vlakhou
+
 ## Carmen
 - Living Status: Alive
 - Epithet: `Blink`
@@ -83,6 +95,7 @@ Examples:
 - Role: None
 - Extra Details: Agile
 - Allegiance: Vlakhou
+
 ## Beatrice
 - Living Status: Missing; 401 CE
 - Epithet: `The Mask`
@@ -90,16 +103,20 @@ Examples:
 - Role: Chameleon
 - Extra Details: None
 - Allegiance: Vlakhou
+
 # Maledictus Annulos
 - `Singular: Maledictus Annulus`
 - `Plural: Maledictus Annulos`\
 The Maledictus Annulos are a set of ten rings, forged as weapons against the Vlakhou. Upon contact, a Maledictus Annulus will cause excruciating pain, then death. As of writing, the locations of seven Maledictus Annulos are known.
+
 # The Age of Light
 The sisters all loved each other, and were rarely ever seen separate, until Sorina's horrible betrayal, forever changing the family.
 - Even before the [Age of Darkness](#the-age-of-darkness), Carmen never trusted Sorina.
 - Isabel looked up to Sorina
 - Sorina was jealous of how Livia was adored by everyone
+
 # The Age of Darkness
+
 ## 371 CE
 - Carmen tried to save Livia's life
 - Carmen failed, and Sorina killed Livia in Roman Moesia, with a Maledictus Annulus
@@ -111,6 +128,7 @@ The sisters all loved each other, and were rarely ever seen separate, until Sori
 - Ana patched Carmen's many wounds
 	- After this, Carmen developed a debilitating fear of sustaining any injury of any kind, no matter how minor
 - Adriana disappeared to investigate Sorina's motives
+
 ## 384 CE
 - Ana assisted Isabel in killing Sorina, to avenge Livia's death, using the same Maledictus Annulus
 	- Isabel's epithet changed from `The Dreamer` to `The Avenger`
@@ -120,7 +138,9 @@ The sisters all loved each other, and were rarely ever seen separate, until Sori
 	- Adriana resented Isabel for this
 		- Adriana agreed that Sorina deserved to die, but not before Adriana could uncover her motives
 	- Adriana believed she could've uncovered Sorina's motives, if Sorina hadn't died
+
 ## 389 CE
 - Alina disappeared
+
 ## 401 CE
 - Beatrice disappeared
