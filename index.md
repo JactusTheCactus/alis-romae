@@ -40,7 +40,7 @@ Examples:
 
 ## Sorina
 - Living Status: Deceased
-- Epithet: Set
+- Epithet: `Set`
 - Bird Form: Swan
 - Role: None
 - Extra Details: Despises Humanity
@@ -52,7 +52,7 @@ Examples:
 	- `The Dreamer`; [Age of Light](#the-age-of-light)
 	- `The Avenger`; [Age of Darkness](#the-age-of-darkness)
 - Bird Form: Finch
-- Role: Something of a “Secondary Heart” to the family, until the [Age of Darkness](#the-age-of-darkness)
+- Role: Something of a "Secondary Heart" to the family, until the [Age of Darkness](#the-age-of-darkness)
 - Extra Details: Youngest
 - Allegiance: Vlakhou
 
@@ -67,7 +67,7 @@ Examples:
 ## Alina
 - Living Status: Missing; 389 CE
 - Epithet: `Peacekeeper`
-- Bird Form": Dove
+- Bird Form: Dove
 - Role: Negotiator
 - Extra Details: None
 - Allegiance: Vlakhou
