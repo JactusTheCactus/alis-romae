@@ -1,11 +1,11 @@
 # Table of Contents
+- [Preface](#preface)
 - Part 1
-	- Chapter 1: [Preface](#preface)
-	- Chapter 2: [Vlakhou Sisters](#vlakhou-sisters)
-	- Chapter 3: [Maledictus Annulos](#maledictus-annulos)
+	- Chapter 1: [Vlakhou Sisters](#vlakhou-sisters)
+	- Chapter 2: [Maledictus Annulos](#maledictus-annulos)
 - Part 2
-	- Chapter 4: [The Age of Light](#the-age-of-light)
-	- Chapter 5: [The Age of Darkness](#the-age-of-darkness)
+	- Chapter 3: [The Age of Light](#the-age-of-light)
+	- Chapter 4: [The Age of Darkness](#the-age-of-darkness)
 
 # Preface
 The _Alis Romae_ is a record of ten sisters of the Vlakhou family born between 806 BCE and 754 BCE in Babylon, each with the ability to transform into a bird form. 32 editions have been written over the centuries, by various authors, but the first edition was in 432 CE, with the most recent edition, the 32nd edition, published in 2012. The Vlakhou are immortal, unless killed by a Maledictus Annulus.
